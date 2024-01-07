@@ -12,6 +12,8 @@ Tx of blutooth will be connected to rx of arduino
 
 Rx of blutoooth will be connected to tx of arduino 
 
+Tip:You can create audiofiles from elevenlabes website i used that and had a great experience.
+
 also remember whenever you are uploding the code remove the cable from tx & rx of arduino without this the code won't upload.
 
 
