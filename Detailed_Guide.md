@@ -6,7 +6,7 @@
 - 2x Speaker 8ohm 0.5w -- [Link](https://www.amazon.in/TECHTONICS-Small-Speaker-Moving-Electric/dp/B0DCP5RN32/ref=sr_1_1?crid=3TO54VFGYB5JP&dib=eyJ2IjoiMSJ9.lWKxdd29JeNRubBLmuvaYUpFgZIkG-FBUwufibNBPQVyDWyGjORWJfey1RSnTPjBdEMc8MpDTziOprLmCmFrzjb5VvVrRBx5L3ruS2Pda_vBHFvq-mkFj3qJT_YeufzRAzFTq7-1zdl45lhcUuzgkjtdVW2_G7Qr7KnpUP3-jn8XH2E_sZxIS0GHABeMJx8zqfOPXWZU6rUHCFAHldw6TGV5AptUUiRWtn5JFTtbXXg.UHlttF89S8ia2Hh7V4u3BXODC3sT5fwvdfT5ARJzao0&dib_tag=se&keywords=speaker+8ohm&qid=1729834103&sprefix=speaker+8oh%2Caps%2C217&sr=8-1)
 - 2x Breadboard -- [Link](https://www.amazon.in/Electronic-Spices-Solderless-Breadboard-Prototype/dp/B0BN7X7FFT/ref=sr_1_9?sr=8-9)
 - Hc05 Bluetooth module -- [Link](https://www.amazon.in/DIY-Retails-Bluetooth-Transceiver-Outputs/dp/B019OR9YVU/ref=sr_1_4?crid=2PEQTD6JIY3XC&dib=eyJ2IjoiMSJ9.MKjA1DnmBlzUlLBx91Qw0Cukojtsqjq1PjWBhdFirZzlwocz1IJV3DK3fWgp3fiTyY9WiryqGs3-EnKSV9AdQjQ9boAe-zT9VP00dALGRVHJ5yYc4L8opicqDV_b7CRUQZhwuvov0Fg55o5llsvPQ2CnW7hFVnenZvBr8nxDxTb4YjaIzrZNBsznFpAx0SEbjj0dmU_tADh9ybJWtgS3TMnz9KvIpX5ytJFuZwHljHE.IqBcbrKDcMc2QkVRWBQ49EaGOWpltI7w89w-gOpgWho&dib_tag=se&keywords=hc+05+bluetooth+module&qid=1729834309&sprefix=hc%2Caps%2C224&sr=8-4)
-- Jumper Wires of different types depending on how you want to connect....
+- Jumper Wires of different type depending on how you want to connect....
 
 ---
 # Wiring :
