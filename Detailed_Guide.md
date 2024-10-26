@@ -12,6 +12,26 @@
 ---
 # Wiring :
 
-coming soon...... I'll add when i get some free time :) 
+### LCD Display
+
+- rs --> 12
+- en --> 7
+- d4 --> 8
+- d5 --> 9
+- d6 --> 10
+- d7 --> 13
+- gnd --> gnd
+- vcc --> power
+- vo --> potentiometer
+- rw --> gnd
+- k --> gnd
+- a --> power
+
+### DF Player Mini
+
+-  soon.... :)
+
+
+
 
 
